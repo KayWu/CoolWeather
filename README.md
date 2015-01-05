@@ -7,4 +7,4 @@ CoolWeather
 用的是 http://blog.csdn.net/gebitan505/article/details/14166763 里所提到的api。
 因此代码与书上的稍有不同，
 主要体现在Utility.class里的
-'handleProvincesResponse', 'handleCitiesResponse', 'handleCountiesResponse'。
+handleProvincesResponse, handleCitiesResponse, handleCountiesResponse。
